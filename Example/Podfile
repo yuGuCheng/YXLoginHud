@@ -1,4 +1,3 @@
-use_frameworks!
 
 target 'YXLoginHud_Example' do
   pod 'YXLoginHud', :path => '../'
