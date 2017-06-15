@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YXLoginHud_Example' do
+  pod 'YXLoginHud', :path => '../'
+
+  target 'YXLoginHud_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
