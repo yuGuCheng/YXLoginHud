@@ -1,0 +1,33 @@
+{
+  "name": "YXLoginHud",
+  "version": "0.1.0",
+  "summary": "A short description of YXLoginHud.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuGuCheng/YXLoginHud",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yushuai": "yushuai@gold-finance.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/yuGuCheng/YXLoginHud.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXLoginHud/Classes/**/*",
+  "resource_bundles": {
+    "YXLoginHud": [
+      "YXLoginHud/Assets/*.png"
+    ]
+  },
+  "public_header_files": "YXLoginHud/Classes/**/*.h",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

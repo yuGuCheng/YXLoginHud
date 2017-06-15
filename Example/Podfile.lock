@@ -1,0 +1,22 @@
+PODS:
+  - Kiwi (2.4.0)
+  - Masonry (1.0.2)
+  - YXLoginHud (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - Kiwi
+  - YXLoginHud (from `../`)
+
+EXTERNAL SOURCES:
+  YXLoginHud:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  YXLoginHud: 536f41e078b8d4354b9a63ae391f71d2bb30c76f
+
+PODFILE CHECKSUM: 68c34505107b67a60d8f02b1e3d8c3fb061e3e1e
+
+COCOAPODS: 1.2.1
